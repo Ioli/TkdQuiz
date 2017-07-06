@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tkd Quiz</string>
+
+    <!--Header text  [CHAR LIMIT = NOONE] -->
+    <string name="title">Ερωτηματολόγιο καλύτερης γνωριμίας με το Ταεκβοντο</string>
+
+    <!--Questions text  [CHAR LIMIT = NOONE] -->
+    <string name="q1">1.Ταεκβοντο σημαίνει:Ο δρόμος του ποδιού και του χεριού</string>
+    <string name="q2">2.Οι αρχές του Ταεκβοντο είναι: (5 σωστές απαντήσεις) </string>
+    <string name="q3">3.Η πράσινη ζώνη συμβολίζει:</string>
+    <string name="q4">4.Gam-Jeom σημαίνει:</string>
+    <string name="q5">5.Βρες τις τρεις σωστές περιπτώσεις νίκης:</string>
+    <!--Hint Text for name [CHAR LIMIT = 20] -->
+    <string name="answer">ένα Ν ή ένα Ο</string>
+    <!--Answers text  [CHAR LIMIT = NOONE] -->
+    <string name="a21">Ευγένεια</string>
+    <string name="a22">Εντιμότητα</string>
+    <string name="a23">Ντροπαλότητα</string>
+    <string name="a24">Επιμονή</string>
+    <string name="a25">Αυτοέλεγχος</string>
+    <string name="a26">Σωφροσύνη</string>
+    <string name="a27">Ακαταβλητο Πνεύμα</string>
+    <string name="a31">τη γη από την οποία φυτρώνει ο βλαστός του φυτού</string>
+    <string name="a32">την ανάπτυξη του φυτού</string>
+    <string name="a33">τον ουρανό προς τον οποίο μεγαλώνοντας το φυτό μετατρέπεται σε δέντρο</string>
+    <string name="a34">κίνδυνο</string>
+    <string name="a35">το αντίθετο του λευκού</string>
+    <string name="a41">χρυσός πόντος</string>
+    <string name="a42">ολόκληρη ποινή</string>
+    <string name="a43">διάρκεια αγώνα</string>
+    <string name="a51">Ένας πόντος για γροθιά στο θώρακα</string>
+    <string name="a52">Ένας πόντος για κλοτσιά στο θώρακα</string>
+    <string name="a53">Τρείς πόντοι για περιστροφικό λάκτισμα στο θώρακα</string>
+    <string name="a54">Δύο πόντοι για λάκτισμα στην κάσκα</string>
+    <string name="a55">Τέσσερις πόντοι για περιστροφικό λάκτισμα στην κάσκα</string>
+
+
+
+    <!--Text for the Button confirm [CHAR LIMIT = 20] -->
+    <string name="confirm">Επιβεβαίωση</string>
+    <string name="bravo">Μπράβο!Αγαπάς το Ταεκβοντο!!!Και οι πέντε απαντήσεις σου είναι σωστές...</string>
+    <string name="message">Ελπίζω να Αγάπησες λίγο παραπάνω το Ταεκβοντο...οι απαντήσεις σου δεν ήταν όλες σωστές.</string>
+    <string name="message1">Ταεκβοντο σημαίνει ο δρόμος του ποδιού και του χεριού.</string>
+    <string name="message2">Οι αρχές του Ταεκβοντο είναι Ευγένεια,Εντιμότητα,Επιμονή,Αυτοέλεγχος,Αυτοέλεγχος,Ακαταβλητο Πνεύμα.</string>
+    <string name="message3">Η πράσινη ζώνη συμβολίζει την ανάπτυξη του φυτού.</string>
+    <string name="message4">Gam-Jeom σημαίνει Ολόκληρη ποινή.</string>
+    <string name="message5">Τρεις σωστές περιπτώσεις νίκης:Ένας πόντος για γροθιά στο θώρακα.Τρείς πόντοι για περιστροφικό λάκτισμα στο θώρακα.Τέσσερις πόντοι για περιστροφικό λάκτισμα στην κάσκα.</string>
+
+
+
+</resources>

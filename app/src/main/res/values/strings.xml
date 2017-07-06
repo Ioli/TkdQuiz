@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Tkd Quiz</string>
+    <!--Header text  [CHAR LIMIT = NOONE] -->
+    <string name="title">Quιz to know better Taekwondo</string>
+    <!--Quastions text  [CHAR LIMIT = NOONE] -->
+    <string name="q1">1. Taekwondo means:Τhe way of the foot and the hand </string>
+    <string name="q2">2. The principles of Taekwondo are: (5 correct answers) </string>
+    <string name="q3">3. The green band symbolizes: </string>
+    <string name="q4">4. GAM-Jeom means: </string>
+    <string name="q5">5. Find the right 3 correct cases of winning:</string>
+    <!--Hint Text for name [CHAR LIMIT = 20] -->
+    <string name="answer">with a Y or N</string>
+    <!--Answers text  [CHAR LIMIT = NOONE] -->
+    <string name="a21">	Politeness  </string>
+    <string name="a22">	Honesty  </string>
+    <string name="a23">	Shyness  </string>
+    <string name="a24">	Insistence  </string>
+    <string name="a25">	Self check  </string>
+    <string name="a26">	Prudence  </string>
+    <string name="a27">	Indomitable Spirit  </string>
+
+
+    <string name="a31">	the land from which the stem of the plant grows  </string>
+    <string name="a32">	plant growth  </string>
+    <string name="a33">	heaven to whom growing the plant converted into tree  </string>
+    <string name="a34">	risk  </string>
+    <string name="a35">	the opposite of white  </string>
+
+    <string name="a41">	gold point  </string>
+    <string name="a42">	whole penalty </string>
+    <string name="a43">	race course  </string>
+
+    <string name="a51">	One point for punch to the chest  </string>
+    <string name="a52">	One point for kick in the chest  </string>
+    <string name="a53">	Three points for rotary kick to the chest  </string>
+    <string name="a54">	Two points for a kick to the head guard  </string>
+    <string name="a55">	Four points for rotary kick to the headset  </string>
+    <!--Text for the Button confirm [CHAR LIMIT = 20] -->
+    <string name="confirm">Confirm</string>
+    <!--Text for the toast [CHAR LIMIT = NOONE] -->
+    <string name="bravo">Wow!You Love Taekwondo!!! Your five answers are correct...</string>
+    <string name="message">I Hope you Loved a little more Taekwondo...your answers are not correct.</string>
+    <string name="message1">Taekwondo means:the way of the foot and the hand.</string>
+    <string name="message2">The principles of Taekwondo are:Politeness,Honesty,Insistence,Self check and Indomitable Spirit.</string>
+    <string name="message3"> The green band symbolizes:plant growth.</string>
+    <string name="message4">GAM-Jeom means:whole penalty.</string>
+    <string name="message5"> The right 3 correct cases of winning are: One point for punch to the chest.Three points for rotary kick to the chest.Four points for rotary kick to the headset.</string>
+
+</resources>
